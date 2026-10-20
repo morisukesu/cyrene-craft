@@ -1,0 +1,11 @@
+{
+  "apiVersion": 1,
+  "id": "cyrene-craft",
+  "name": "Cyrene Craft",
+  "version": "1.0.0",
+  "description": "把昔涟接入 Minecraft：机器人连入服务器，游戏聊天直接对话，支持移动/跟随/挖掘/建造/合成/熔炼/战斗/地图/记忆与自主任务",
+  "author": "Cyrene",
+  "entry": "index.cjs",
+  "defaultEnabled": false,
+  "deps": ["channels", "llm", "secrets", "workspace"]
+}
